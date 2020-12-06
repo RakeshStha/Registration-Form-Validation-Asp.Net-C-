@@ -15,6 +15,7 @@
 </head>
 <body>
     <div class="container">
+        <div></div>
     <h1 class="text-center heading">Registration form</h1>
     <form id="form1" runat="server">
         <div class="form-group">
